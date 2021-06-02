@@ -6,7 +6,6 @@ public class d210602 {
 		int min = 0;
 		int max = 0;
 		
-		
 		for(int i = 0; i < int_array.length; i++) {
 			if(i == 0) {
 				min = int_array[0];
